@@ -47,7 +47,7 @@ Uso desafios, projetos, anotações e repositórios para reforçar o aprendizado
 
 ## 📬 Contato
 
-📧 sjf1616@gmail.com  
+📧 sjf16s20@gmail.com  
 🔗 [linkedin.com/in/samuel-j-fernandes](https://linkedin.com/in/samuel-j-fernandes) ← 
 
 ---
