@@ -3,17 +3,6 @@
 Sou apaixonado por tecnologia, dados e inteligência artificial.  
 Atualmente estudo **Sistemas de Informação** e sigo uma jornada autodidata com foco em **Machine Learning** e **IA aplicada**.
 
----
-
-## 🎯 Objetivos
-
-- 📌 Dominar o ciclo completo de projetos com dados
-- 🤖 Trabalhar com IA aplicada (Machine Learning, Deep Learning, NLP)
-- 🧠 Me especializar em **NeuroAI** e **Modelos de Linguagem**
-- 🧪 Criar soluções práticas que resolvem problemas reais com inteligência artificial
-
----
-
 ## 📚 Minha jornada de aprendizado
 
 Organizo meus estudos no repositório [learning_dev](https://github.com/sjf1616/learning_dev), onde pratico:
